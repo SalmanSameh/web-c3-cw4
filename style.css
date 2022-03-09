@@ -1,0 +1,22 @@
+.container{
+    background-color: burlywood;
+    width: 400px;
+    height: 200px;
+    margin: 10px;
+    padding: 10px;
+}
+.card{
+    background-color: coral;
+    width: 400px;
+    height: 200px;
+    border-width: 4px;
+    box-shadow: 1px 2px 5px blue; 
+}
+.card2{
+    background-color: crimson;
+    width: 400px;
+    height: 200px;
+    border-style: outset;
+    border-width: 20px;
+    border-color: cadetblue;
+}
